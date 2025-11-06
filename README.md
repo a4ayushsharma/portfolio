@@ -1,4 +1,4 @@
-# Ayush Sharma – Personal Portfolio  
+# Personal Portfolio  
 A modern, interactive single-page website to showcase who I am, what I do, and the projects I’ve built.
 
 ## About the Project  
@@ -13,13 +13,9 @@ Designed and developed with a focus on simplicity, interactivity, and modern des
 - HTML5  
 - CSS3  
 - JavaScript  
-- (Optional: mention frameworks/tools if used — e.g., Bootstrap, Tailwind CSS, jQuery)  
-- Responsive mobile-first design  
-- Modern browser compatibility  
 
 ## Features  
 - Clean and minimal UI / UX  
 - Interactive navigation (scrolling, anchored sections)  
 - Responsive layout — works on desktops, tablets & mobile devices  
 - Sections for About, Skills, Projects & Contact  
-- Easy to customize for your own use  
